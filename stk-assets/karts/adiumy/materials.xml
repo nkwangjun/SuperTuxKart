@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<materials>
+  <material name="Adiumy_dif.png" normal-map="Adiumy_nrm.png"/>
+  <material name="EggKart_Wheel_dif.png" normal-map="EggKart_Wheel_nrm.png"/>
+  <material name="EggKart_dif.png" gloss-map="EggKart_gloss.png" normal-map="EggKart_nrm.png" colorizable="Y"/>
+  <material name="EggKart_part_dif.png" gloss-map="EggKart_part_gloss.png" normal-map="EggKart_part_nrm.png"/>
+</materials>
